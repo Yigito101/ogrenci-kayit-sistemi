@@ -37,11 +37,13 @@ Bu uygulama, eğitim kurumlarındaki öğrenci kayıt süreçlerini dijitalleşt
 
 * **Kayıt Silme**: Mezun olan veya kaydı silinen öğrencilerin sistemden kaldırılması.
 ## Ekran Görüntüleri
-
-  
-
-
-
+https://prnt.sc/DNDMbwmJRFvH
+https://prnt.sc/OiQ3HAj5oafa
+https://prnt.sc/JSIPBUEog7nH
+https://prnt.sc/6xTBiGCrxBuR
+https://prnt.sc/UEcllRcc7UbZ
+https://prnt.sc/3C_OWvSFxxSl
+https://prnt.sc/4_ZcHI-AmOd-
   
 ## Yazar
 
