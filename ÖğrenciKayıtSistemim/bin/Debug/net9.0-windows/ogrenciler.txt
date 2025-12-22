@@ -1,0 +1,4 @@
+Efecan,Efe,2303022110
+Efecan,Efe,1
+2303022110,Efecan,Efe,Mühendislik - Mimarlık Fakültesi,Bilgisayar Mühendisliği
+2303022109,Yağız,Türkmen,Mühendislik - Mimarlık Fakültesi,Bilgisayar Mühendisliği
