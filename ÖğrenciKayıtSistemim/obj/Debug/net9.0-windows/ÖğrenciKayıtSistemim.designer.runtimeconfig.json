@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\efeca\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\efeca\\.nuget\\packages",
+      "C:\\Users\\istek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\istek\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

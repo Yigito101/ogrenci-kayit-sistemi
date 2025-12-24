@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="BolumEkleForm.cs">
+    <Compile Update="Formlar\BolumEkleForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FakulteEkleForm.cs">
+    <Compile Update="Formlar\FakulteEkleForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Giriş Ekranı.cs">
+    <Compile Update="Formlar\Giriş Ekranı.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Kayit Secenekleri.cs">
+    <Compile Update="Formlar\Kayit Secenekleri.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="OgrenciEkleForm.cs">
+    <Compile Update="Formlar\OgrenciEkleForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="OgrenciSilForm.cs">
+    <Compile Update="Formlar\OgrenciSilForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

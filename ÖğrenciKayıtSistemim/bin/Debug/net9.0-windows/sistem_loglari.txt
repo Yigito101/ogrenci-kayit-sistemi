@@ -1,0 +1,31 @@
+24.12.2025 16:35:49 - [BAŞARILI] -> [Mühendislik] fakültesi sisteme Başarıyla eklendi.
+24.12.2025 16:35:58 - [BAŞARILI] -> [Bilgisayar] bölümü sisteme Başarıyla eklendi.
+24.12.2025 16:36:10 - [BAŞARILI] -> [2131] numaralı [Muhammed Aktaş], [Mühendislik] [Bilgisayar] sisteme Başarıyla eklendi.
+24.12.2025 16:36:23 - [BAŞARILI] -> [41] numaralı [Efecan Fark], [Mühendislik] [Bilgisayar] sisteme Başarıyla eklendi.
+24.12.2025 16:45:46 - [BAŞARILI] -> [2131] numaralı [Efecan Efe], [Mühendislik] [Bilgisayar] sisteme Başarıyla eklendi.
+24.12.2025 16:57:53 - [BAŞARILI] -> [123] sisteme eklendi.
+24.12.2025 16:58:23 - [UYARI] -> Silme denemesi başarısız: Seçim yapılmadı.
+24.12.2025 17:01:47 - [BAŞARILI] -> [1313] sisteme eklendi.
+24.12.2025 17:07:18 - [BAŞARILI] -> [121] sisteme eklendi.
+24.12.2025 17:07:30 - [UYARI] -> Silme denemesi başarısız: Seçim yapılmadı.
+24.12.2025 17:13:11 - [BİLGİ] -> Silme isteği: Gelen='2131' -> Aranan Saf='2131'
+24.12.2025 17:13:11 - [BİLGİ] -> EŞLEŞME: Satır 0 -> Dosyadaki='2131'
+24.12.2025 17:13:11 - [BAŞARILI] -> [2131] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:15 - [BİLGİ] -> Silme isteği: Gelen='2131' -> Aranan Saf='2131'
+24.12.2025 17:13:15 - [BİLGİ] -> EŞLEŞME: Satır 1 -> Dosyadaki='2131'
+24.12.2025 17:13:15 - [BAŞARILI] -> [2131] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:20 - [BİLGİ] -> Silme isteği: Gelen='123' -> Aranan Saf='123'
+24.12.2025 17:13:20 - [BİLGİ] -> EŞLEŞME: Satır 1 -> Dosyadaki='123'
+24.12.2025 17:13:20 - [BAŞARILI] -> [123] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:20 - [BİLGİ] -> Silme isteği: Gelen='1313' -> Aranan Saf='1313'
+24.12.2025 17:13:20 - [BİLGİ] -> EŞLEŞME: Satır 1 -> Dosyadaki='1313'
+24.12.2025 17:13:20 - [BAŞARILI] -> [1313] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:25 - [BİLGİ] -> Silme isteği: Gelen='41' -> Aranan Saf='41'
+24.12.2025 17:13:25 - [BİLGİ] -> EŞLEŞME: Satır 0 -> Dosyadaki='41'
+24.12.2025 17:13:25 - [BAŞARILI] -> [41] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:25 - [BİLGİ] -> Silme isteği: Gelen='121' -> Aranan Saf='121'
+24.12.2025 17:13:25 - [BİLGİ] -> EŞLEŞME: Satır 0 -> Dosyadaki='121'
+24.12.2025 17:13:25 - [BAŞARILI] -> [121] numaralı kayıt Başarıyla Silindi.
+24.12.2025 17:13:29 - [UYARI] -> Silme denemesi başarısız: Seçim yapılmadı (Ne tikli ne de seçili öğe var).
+24.12.2025 17:38:00 - [UYARI] -> Silme denemesi başarısız: Seçim yapılmadı (Ne tikli ne de seçili öğe var).
+24.12.2025 17:38:02 - [UYARI] -> Silme denemesi başarısız: Seçim yapılmadı (Ne tikli ne de seçili öğe var).

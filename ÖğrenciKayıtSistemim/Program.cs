@@ -1,4 +1,6 @@
-namespace Ã–ÄŸrenciKayÄ±tSistemim
+
+using ÖðrenciKayýtSistemim.Formlar;
+namespace ÖðrenciKayýtSistemim
 {
     internal static class Program
     {

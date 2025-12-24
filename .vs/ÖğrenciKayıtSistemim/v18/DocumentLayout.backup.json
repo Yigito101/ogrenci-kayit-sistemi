@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\fakulteekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\fakulteekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\bolumekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\bolumekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\logturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\logturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\dosyayoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\dosyayoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\logyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\veri y\u00F6netimi\\logyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrenciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\ogrencisilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|c:\\users\\istek\\downloads\\ogrenci-kayit-sistemi-main\\\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EABC512-58DA-4F62-8D9B-66DEE90ED012}|\u00D6\u011FrenciKay\u0131tSistemim\\\u00D6\u011FrenciKay\u0131tSistemim.csproj|solutionrelative:\u00F6\u011Frencikay\u0131tsistemim\\formlar\\kayit secenekleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciEkleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.Designer.cs*",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.Designer.cs*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:37:39.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakulteEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\FakulteEkleForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\FakulteEkleForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\FakulteEkleForm.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\FakulteEkleForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:34:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BolumEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\BolumEkleForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\BolumEkleForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\BolumEkleForm.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\BolumEkleForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:32:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogTurleri.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogTurleri.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogTurleri.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogTurleri.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogTurleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:20:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgrenciSilForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.Designer.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.Designer.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAvwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:12:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswJEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:53:59.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciSilForm.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAA9wMsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:53:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DosyaYoneticisi.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\DosyaYoneticisi.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\DosyaYoneticisi.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\DosyaYoneticisi.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\DosyaYoneticisi.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:35:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciEkleForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciEkleForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:53:57.096Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogYoneticisi.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogYoneticisi.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogYoneticisi.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogYoneticisi.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Veri Y\u00F6netimi\\LogYoneticisi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:05:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OgrenciSilForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\OgrenciSilForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:54:15.874Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kayit Secenekleri.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:43:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kayit Secenekleri.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.Designer.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.Designer.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.Designer.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:44:21.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kayit Secenekleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs",
+              "ToolTip": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u00D6\u011FrenciKay\u0131tSistemim\\Formlar\\Kayit Secenekleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:43:29.503Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

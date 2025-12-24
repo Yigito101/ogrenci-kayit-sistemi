@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\efeca\\.nuget\\packages\\": {},
+    "C:\\Users\\istek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efeca\\OneDrive\\Masaüstü\\Öğrenci-Kayıt-Sistemim\\ÖğrenciKayıtSistemim\\ÖğrenciKayıtSistemim.csproj",
+      "projectUniqueName": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\ÖğrenciKayıtSistemim\\ÖğrenciKayıtSistemim.csproj",
       "projectName": "ÖğrenciKayıtSistemim",
-      "projectPath": "C:\\Users\\efeca\\OneDrive\\Masaüstü\\Öğrenci-Kayıt-Sistemim\\ÖğrenciKayıtSistemim\\ÖğrenciKayıtSistemim.csproj",
-      "packagesPath": "C:\\Users\\efeca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efeca\\OneDrive\\Masaüstü\\Öğrenci-Kayıt-Sistemim\\ÖğrenciKayıtSistemim\\obj\\",
+      "projectPath": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\ÖğrenciKayıtSistemim\\ÖğrenciKayıtSistemim.csproj",
+      "packagesPath": "C:\\Users\\istek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\istek\\Downloads\\ogrenci-kayit-sistemi-main\\ÖğrenciKayıtSistemim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\efeca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\istek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
